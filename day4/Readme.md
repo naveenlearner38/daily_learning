@@ -19,7 +19,3 @@
 -  Completed Laravel 8 Task - Brido
 
 ## GitHub Profile
-
-- [Awesome Machine Learning by Joseph Misiti](https://github.com/josephmisiti/awesome-machine-learning)
-
-- [ML For Hackers by John Myles White](https://github.com/johnmyleswhite/ML_for_Hackers)
