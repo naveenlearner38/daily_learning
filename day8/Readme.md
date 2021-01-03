@@ -2,16 +2,14 @@
 
 ## 66 Days of Data & Kaggle
 
-- [How to Learn Statistics for Data Science As A Self Starter- Follow My Way](https://www.youtube.com/watch?v=zRUliXuwJCQ) 
+- [Python NumPy Tutorial for Beginners](https://www.youtube.com/watch?v=QUT1VHiLmmI&t=833s) 
 
 ## 100 days of Security
 
-- [OTP Bypass on India’s Biggest Video Sharing Site.](https://medium.com/bugbountywriteup/otp-bypass-on-indias-biggest-video-sharing-site-e94587c1aa89)
+- [How I bypassed the OTP verification process? Part — 1](https://medium.com/bugbountywriteup/how-i-bypassed-the-otp-verification-process-part-1-e5b333274ae9)
 
 ## Daily Coding & Daily Learning
 
-- Searched about gRPC
-
-- Looked one React video in CleverProgrammer Youtube
+- Worked on Fish product
 
 ## GitHub Profile
