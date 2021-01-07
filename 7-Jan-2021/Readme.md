@@ -8,6 +8,8 @@
 
 - [3-2-1: On maturity, how to do exceptional work, and the connectedness of things => Blog](https://jamesclear.com/3-2-1/january-7-2021)
 
+- [How to increase CSS-in-JS performance by 175x => Blog](https://itnext.io/how-to-increase-css-in-js-performance-by-175x-f30ddeac6bce)
+
 ## GitHub Profile
 
 - Finding Machine Learning  Projects in GitHub
