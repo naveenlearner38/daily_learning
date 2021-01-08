@@ -2,9 +2,9 @@
 
 ## Daily Coding & Daily Learning
 
-- [Understanding and Decrypting Symmetric Encryption => Blog](https://medium.com/bugbountywriteup/understanding-and-breaking-symmetric-encryption-e83efacd5619)
+- [1000$ for Open redirect via unknown technique [BugBounty writeup] => Blog](https://ruvlol.medium.com/1000-for-open-redirect-via-unknown-technique-675f5815e38a)
 
-- [500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code => github](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)
+- [OpenAI’s Future of Vision: Contrastive Language Image Pre-training(CLIP) => Blog](https://www.analyticsvidhya.com/blog/2021/01/openais-future-of-vision-contrastive-language-image-pre-trainingclip/)
 
 - [How Innovative Ideas Arise => Blog](https://jamesclear.com/dont-start-from-scratch)
 
