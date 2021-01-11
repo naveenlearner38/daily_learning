@@ -2,7 +2,7 @@
 
 ## Daily Coding & Daily Learning
 
-- [The Ultimate Productivity Hack is Saying No => Blog](https://jamesclear.com/saying-no)
+- [7 Ways to Retain More of Every Book You Read => Blog](https://jamesclear.com/reading-comprehension-strategies)
 
 
 ## GitHub Profile
